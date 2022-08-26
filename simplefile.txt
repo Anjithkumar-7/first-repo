@@ -1,5 +1,5 @@
 line Every
 line Good
-line Boy
+line Boy Buddy
 line Deserves
-line Favor
+line Favorable
